@@ -1,5 +1,13 @@
 Hi my name is usama ahmad
 My name is usama ahmad
+<<<<<<< HEAD
 Here right now i am new branch
 This the latest and new branch here.
 Hi i am again commit here and some changes has been happened here.
+=======
+
+Here right now i am new branch
+
+Hello i am learning git and github practice right now.
+
+>>>>>>> eae4a623e5fe918eebc77aad38bcc9ab6b8e1328
